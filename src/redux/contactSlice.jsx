@@ -5,10 +5,10 @@ import storage from 'redux-persist/lib/storage';
 
 const initialStateContacts = {
   contacts: [
-    { id: 'id-1', name: 'John Deer', number: '536-95-87' },
-    { id: 'id-2', name: 'Bill Ross', number: '756-98-21' },
-    { id: 'id-3', name: 'Ann Clint', number: '751-97-28' },
-    { id: 'id-4', name: 'Sia Norton', number: '457-28-91' },
+    { id: 'id-1', name: 'Rosie Simpson', number: '459-12-56' },
+    { id: 'id-2', name: 'Hermione Kline', number: '443-89-12' },
+    { id: 'id-3', name: 'Eden Clements', number: '645-17-79' },
+    { id: 'id-4', name: 'Annie Copeland', number: '227-91-26' },
   ],
 };
 
